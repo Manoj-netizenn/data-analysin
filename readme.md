@@ -29,7 +29,7 @@ analyzed the data using *pandas* and *numpy* frameworks
  - `pip3 install numpy`
 
 
-### [+] Tasks
+### [+] problem statements
 * Top Cuisines
 Determine the top three most
 common cuisines in the dataset.
