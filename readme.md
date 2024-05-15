@@ -1,5 +1,5 @@
 <h2 align="center"><u>Data analysis using python </u></h2>
-<img src="https://st2.depositphotos.com/36728490/48888/v/600/depositphotos_488885544-stock-illustration-young-happy-businessman-using-laptop.jpg" style="display: block; margin: auto;>
+<img src="https://st2.depositphotos.com/36728490/48888/v/600/depositphotos_488885544-stock-illustration-young-happy-businessman-using-laptop.jpg" style="display: block; margin: auto; alt='data-analysis>
 <p align="center">
 <br>
     <img src="https://img.shields.io/badge/Author-Rockyman101-magenta?style=flat-square">
@@ -12,6 +12,22 @@
 ### [+] Description
 The Global Restaurant Data Analysis project aims to analyze a diverse dataset containing information about restaurants from different countries and regions around the world. The dataset includes details such as restaurant names, locations, cuisines, ratings, reviews, and other relevant metrics.
 analyzed the data using *pandas* and *numpy* frameworks
+
+
+
+### [+] Requirements
+ - pycharm or vs code editor
+ - numpy
+ - pandas
+ - matplot lib
+
+
+### [+] Installation
+ - `pip install pandas`
+ - `pip install numpy `
+ - `pip3 install pandas`
+ - `pip3 install numpy`
+
 
 ### [+] Tasks
 * Top Cuisines
