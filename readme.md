@@ -10,6 +10,7 @@
 </p>
 
 ### [+] Description
+The Global Restaurant Data Analysis project aims to analyze a diverse dataset containing information about restaurants from different countries and regions around the world. The dataset includes details such as restaurant names, locations, cuisines, ratings, reviews, and other relevant metrics.
 analyzed the data using *pandas* and *numpy* frameworks
 
 ### [+] Tasks
