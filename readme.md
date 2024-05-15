@@ -1,5 +1,5 @@
 <h2 align="center"><u>Data analysis</u></h2>
-![alt-text](https://st5.depositphotos.com/8451324/65696/v/600/depositphotos_656963078-stock-illustration-graph-black-icon-white-background.jpg)
+<img src="https://st2.depositphotos.com/36728490/48888/v/600/depositphotos_488885544-stock-illustration-young-happy-businessman-using-laptop.jpg" style="display: block; margin: auto;>
 <p align="center">
 <br>
     <img src="https://img.shields.io/badge/Author-Rockyman101-magenta?style=flat-square">
