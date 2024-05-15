@@ -1,4 +1,4 @@
-<h2 align="center"><u>Data analysis using python 🐍</u></h2>
+<h2 align="center"><u>Data analysis using python </u></h2>
 <img src="https://st2.depositphotos.com/36728490/48888/v/600/depositphotos_488885544-stock-illustration-young-happy-businessman-using-laptop.jpg" style="display: block; margin: auto;>
 <p align="center">
 <br>
