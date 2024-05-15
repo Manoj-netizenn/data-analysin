@@ -88,5 +88,10 @@ Analyze the ratings and popularity of
 different restaurant chains
 
 
+
+### [+] solutions
+you can find the results on <a href="https://github.com/Rockyman101/data-analysin/blob/d6ab8ff8641d7b24cca589a91e75b970bed9b400/analysis.ipynb">analysis.ipynb
+
+  
 ### [+] Find me on 
 <a href="mailto:mallappanavarmanoj@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-mallappanavarmanoj@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
