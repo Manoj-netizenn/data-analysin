@@ -2,7 +2,7 @@
 <img src="https://st2.depositphotos.com/36728490/48888/v/600/depositphotos_488885544-stock-illustration-young-happy-businessman-using-laptop.jpg" style="display: block; margin: auto; alt='data-analysis>
 <p align="center">
 <br>
-    <img src="https://img.shields.io/badge/Author-Rockyman101-magenta?style=flat-square">
+    <img src="https://img.shields.io/badge/Author-Manoj-magenta?style=flat-square">
     <img src="https://img.shields.io/badge/Open%20Source-Yes-orange?style=flat-square">
     <img src="https://img.shields.io/badge/Maintained-Yes-cyan?style=flat-square">
     <img src="https://img.shields.io/badge/Made%20In-india-green?style=flat-square">
